@@ -1,2 +1,2 @@
 # hello-world
-where I'm putting code I've written before creating this account
+where I'm putting some code I've written before creating this account
